@@ -1,8 +1,6 @@
 hi this is a viva file .
 
+
 good
-
-hii everyone
-
 hello
 bye
